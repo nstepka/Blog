@@ -1,0 +1,7 @@
+com\sg\cmsmattnickhassan\dao\PostDaoDBImplTest.class
+com\sg\cmsmattnickhassan\dao\PostDaoDBImplTest$PostMapper.class
+com\sg\cmsmattnickhassan\dao\PostDaoDBImplTest$UserMapper.class
+com\sg\cmsmattnickhassan\dao\PostDaoDBImplTest$TagMapper.class
+com\sg\cmsmattnickhassan\dao\RoleDaoDBImplTest.class
+com\sg\cmsmattnickhassan\dao\TagDaoDBImplTest.class
+com\sg\cmsmattnickhassan\dao\UserDaoDBImplTest.class
